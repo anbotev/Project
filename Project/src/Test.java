@@ -12,7 +12,7 @@ public class Test {
 		try{
 	
 	String folderStr = JOptionPane.showInputDialog(null, "Enter directory to search for: ");
-
+	System.out.println("Aida b e ");
 	File folder = new File(folderStr);
 	if(!FileClass.readFolder(folder)){ 
 		throw new ArrayIndexOutOfBoundsException();
