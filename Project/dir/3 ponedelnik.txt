@@ -1,0 +1,4 @@
+denica,petrova,501214034,45,7
+benko,ivanov,501214033,48,0
+gergana,nikolova,501214032,50,1
+kalina,purlovaa,232312500,50,10
